@@ -8,3 +8,10 @@
 * Dimension 2: File
 * Dimension 1: Date
 * The tables are ten loadeed onto mySQL
+
+
+## Task 2: Data Visualization in PowerBI, Steps taken:
+
+* The Data was pulled from mySQL database
+* The relationships between the tables are defined
+* Different visualisations are created and dashboard is created
